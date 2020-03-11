@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aca5a406-62f0-4b33-a114-4d33acf2757c" name="Default Changelist" comment="" />
+    <list default="true" id="aca5a406-62f0-4b33-a114-4d33acf2757c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -305,7 +307,7 @@
       <workItem from="1582785994529" duration="33762000" />
       <workItem from="1583045678110" duration="3222000" />
       <workItem from="1583394206230" duration="1725000" />
-      <workItem from="1583916344962" duration="2479000" />
+      <workItem from="1583916344962" duration="3171000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1583918822215</created>
@@ -314,7 +316,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583918822215</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit">
+      <created>1583918965117</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583918965117</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -341,14 +350,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582704426815" />
-    <state x="572" y="113" key="CommitChangelistDialog2" timestamp="1583918941298">
+    <state x="572" y="113" key="CommitChangelistDialog2" timestamp="1583919743576">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583918941298" />
-    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1583917662825">
+    <state x="572" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583919743576" />
+    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1583919711044">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583917662825" />
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583919711044" />
     <state x="1368" y="418" width="274" height="208" key="Github.ShareDialog" timestamp="1583918957860">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -453,5 +462,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1302" y="429" key="svn.passwordDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583916627805" />
+    <state x="790" y="314" key="svn.repositoryBrowser" timestamp="1583919467238">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="790" y="314" key="svn.repositoryBrowser/0.0.1920.1040@0.0.1920.1040" timestamp="1583919467238" />
   </component>
 </project>
