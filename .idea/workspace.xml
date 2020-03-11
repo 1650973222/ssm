@@ -6,8 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aca5a406-62f0-4b33-a114-4d33acf2757c" name="Default Changelist" comment="">
+    <list default="true" id="aca5a406-62f0-4b33-a114-4d33acf2757c" name="Default Changelist" comment="commit">
+      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/hba/qq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/hba/qq.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +46,7 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -307,7 +309,7 @@
       <workItem from="1582785994529" duration="33762000" />
       <workItem from="1583045678110" duration="3222000" />
       <workItem from="1583394206230" duration="1725000" />
-      <workItem from="1583916344962" duration="3171000" />
+      <workItem from="1583916344962" duration="4581000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1583918822215</created>
@@ -323,7 +325,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583918965117</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit">
+      <created>1583919768265</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583919768265</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -334,6 +343,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="182" key="#Notifications" timestamp="1583920784294">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="182" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1583920784294" />
     <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582698935246">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -350,18 +363,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582704426815" />
-    <state x="572" y="113" key="CommitChangelistDialog2" timestamp="1583919743576">
+    <state x="572" y="113" key="CommitChangelistDialog2" timestamp="1583919789872">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583919743576" />
+    <state x="572" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583919789872" />
     <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1583919711044">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583919711044" />
-    <state x="1368" y="418" width="274" height="208" key="Github.ShareDialog" timestamp="1583918957860">
+    <state x="1368" y="418" width="274" height="281" key="Github.ShareDialog" timestamp="1583920282275">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1368" y="418" width="274" height="208" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583918957860" />
+    <state x="1368" y="418" width="274" height="281" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583920282275" />
     <state x="734" y="224" key="Github.UntrackedFilesDialog" timestamp="1583917937310">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -442,14 +455,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="222" y="123" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583917776776" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1583920876294">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583920876294" />
     <state x="652" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1583394206180">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="652" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583394206180" />
-    <state x="754" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583918676279">
+    <state x="754" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583920759871">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="754" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583918676279" />
+    <state x="754" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583920759871" />
     <state x="334" y="224" key="new project wizard" timestamp="1582768514523">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
