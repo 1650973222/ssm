@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cn.hba.dao.BookInfoMapper">
+	<select id="getBookInfoList" resultType="BookInfo">
+		SELECT * FROM book_info 
+		<trim prefix="where" prefixOverrides="and">
+			<if test="book_type !=null">
+				AND book_type=#{book_type}
+			</if>
+			<if test="book_name !=null and book_name!=''">
+				AND book_name like concat('%',#{book_name},'%')
+			</if>
+			<if test="is_borrow !=null">
+				AND is_borrow=#{is_borrow}
+			</if>
+		</trim>
+	</select>
+	<update id="update" parameterType="Integer">
+		UPDATE book_info SET is_borrow=1 WHERE book_id=#{id}
+	</update>
+
+	<select id="selectAll" resultType="BookInfo">
+		SELECT * FROM book_info
+	</select>
+
+	<delete id="delById" parameterType="Integer">
+		DELETE FROM book_info WHERE id=#{id}
+	</delete>
+
+	<select id="getAllById" parameterType="Integer">
+		select * from book_info where id=#{id}
+	</select>
+
+	<select id="getAll" resultType="BookInfo" parameterType="Integer">
+		select * from book_info where book_id=#{id}
+	</select>
+	
+</mapper>

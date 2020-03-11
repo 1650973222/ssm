@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cn.hba.dao.UserMapper">
+	<select id="login" resultType="Users" parameterType="String">
+		SELECT * FROM users WHERE user_code=#{user_code}
+	</select>
+	
+</mapper>
